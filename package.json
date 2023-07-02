@@ -1,0 +1,7 @@
+{
+  "name": "create-bjerk",
+  "version": "0.0.0-development",
+  "description": "Opinionated code templates",
+  "type": "module",
+  "main": "main.js"
+}
